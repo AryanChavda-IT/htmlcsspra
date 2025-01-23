@@ -1,0 +1,40 @@
+/* element selector */
+h1 {
+  text-align: center;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  text-decoration: double;
+  background-position-x: right;
+  background-image: url(Data/hello_world.png);
+  color: blue;
+}
+
+/* ID selector */
+
+#Myname {
+  text-align: center;
+  font-style: normal;
+  font-size: larger;
+  color: brown;
+  background: color(srgb red green blue);
+  border: 2px solid black;
+}
+
+/* \ Class selector */
+
+/* .back-vid {
+  position: absolute;
+  right: 10;
+  bottom: 10;
+  top: 10;
+  z-index: -1;
+} */
+
+/* Group Selector */
+table,form{
+
+  align-items: center;
+  
+
+}
+
